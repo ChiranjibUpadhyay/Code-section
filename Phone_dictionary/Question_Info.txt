@@ -1,6 +1,6 @@
 Given a keypad as shown in diagram, and an N digit number. List all words which are possible by pressing these numbers.
 
-![download](https://user-images.githubusercontent.com/47445363/67895234-1d736c00-fb80-11e9-8461-a43fedd460a2.png)
+##diagram is given in the parent folder README file
 
 Input:
 The first line of input contains an integer T denoting the number of test cases. T testcases follow. Each testcase contains two lines of input. The first line of each test case is N, N is the number of digits. The second line of each test case contains D[i], N number of digits.
